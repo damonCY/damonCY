@@ -1,43 +1,42 @@
-# Hi, I'm Damon
+# Damon / damonCY
 
-Frontend Engineer focused on JavaScript, frontend tooling, and practical web utilities.
+I like building practical tools, small web projects, and developer-facing utilities with JavaScript.
 
-## About Me
+This GitHub profile is my public workshop — a place for side projects, technical experiments, small utilities, and older full-stack practice work that I still want to keep visible and organized.
 
-I enjoy building small, useful projects around frontend development, developer tooling, and day-to-day engineering workflows. My GitHub is mainly a collection of hands-on experiments, utility projects, and full-stack practice work.
+## What you'll find here
 
-## What I Focus On
+- small tools with clear use cases
+- frontend and Node.js experiments
+- utility-style projects built from real needs
+- technical notes and learning records
+- older projects that show how I build and iterate
 
-- Frontend engineering with JavaScript
-- Practical CLI and web-based utilities
-- Small projects with clear use cases
-- Improving project presentation and documentation
-
-## Selected Projects
+## Projects I’d start with
 
 ### [git-pictures-bed](https://github.com/damonCY/git-pictures-bed)
 A GitHub-based image hosting tool with both CLI upload and local web upload support.
 
 ### [image_db](https://github.com/damonCY/image_db)
-A simple image repository used for storing static assets and working with raw GitHub image links.
+A lightweight image repository used for storing static assets and working with raw GitHub image links.
 
 ### [compressFiles](https://github.com/damonCY/compressFiles)
-A lightweight CLI tool for compressing JavaScript files in a target directory.
-
-### [railwaySystem](https://github.com/damonCY/railwaySystem)
-A legacy Express and MongoDB railway management demo with a mobile-oriented frontend.
+A small CLI utility for compressing JavaScript files in a target directory.
 
 ### [blog](https://github.com/damonCY/blog)
-Personal technical notes and example code maintained with GitHub Issues.
+Personal technical notes, issue-based articles, and small example code.
 
-## Tech Stack
+### [railwaySystem](https://github.com/damonCY/railwaySystem)
+An older Express and MongoDB practice project with a mobile-oriented frontend.
+
+## Tech I use most
 
 JavaScript · HTML · CSS · Vue · Node.js · MongoDB
 
-## Current Direction
+## What I’m doing now
 
-I am currently focused on making my public GitHub projects easier to understand, better documented, and more useful as a technical portfolio.
+Right now I’m cleaning up old repositories, improving documentation, and making my public projects easier to browse as a technical homepage.
 
-## Profile Notes
+## Notes
 
-If you're visiting from my profile page, the repositories above are the best place to start.
+This profile is not a polished product page. It is closer to an evolving build log of things I’ve made, tested, and learned from.
